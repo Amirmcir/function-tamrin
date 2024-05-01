@@ -5,7 +5,6 @@ function zarbdar(vorodi){
 	}
 	console.log("Zarbdar 2 Shode : " , vorodi);
 }
-
 zarbdar(arrayforzarbdar)
 
 /***************************************/
